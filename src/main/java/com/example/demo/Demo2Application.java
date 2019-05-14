@@ -10,6 +10,7 @@ public class Demo2Application {
         SpringApplication.run(Demo2Application.class, args);
         System.out.print("git流程测试！！！！");
         System.out.print("git流程测试@@@@@！！！！");
+        System.out.print("gitTest分支测试！！！！");
     }
 
 }
